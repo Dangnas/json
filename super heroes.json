@@ -7,7 +7,8 @@
   "members": [
     {
       "name": "Iron Man",
-      "weapon":"Iron man suit",
+      "age" : 29,
+      "secretIdentity":"Iron man suit",
       "powers": [
         "invulnerability",
         "Fly combat"
@@ -15,14 +16,16 @@
     },
     {
       "name": "Captain America",
-      "weapon":"shield",
+      "age" : 29,
+      "secretIdentity":"shield",
       "powers": [
         "Exceptional physical endurance and speed of movement"
       ]
     },
     {
       "name": "Thor",
-      "weapon":"Quake",
+      "age" : 29,
+      "secretIdentity":"Quake",
       "powers": [
         "The god of Asgard",
         "God hammers a bolt of thunder",
