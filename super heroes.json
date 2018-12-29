@@ -8,7 +8,7 @@
     {
       "name": "Iron Man",
       "age" : 29,
-      "weapon":"Iron man suit",
+      "secretWeapon":"Iron man suit",
       "powers": [
         "invulnerability",
         "Fly combat"
@@ -17,7 +17,7 @@
     {
       "name": "Captain America",
       "age" : 29,
-      "weapon":"shield",
+      "secretWeapon":"shield",
       "powers": [
         "Exceptional physical endurance and speed of movement"
       ]
@@ -25,7 +25,7 @@
     {
       "name": "Thor",
       "age" : 29,
-      "weapon":"Quake",
+      "secretWeapon":"Quake",
       "powers": [
         "The god of Asgard",
         "God hammers a bolt of thunder",
@@ -34,7 +34,8 @@
     },
     {
       "name": "The Hulk",
-      "weapon":"Become the hulk",
+      "age" : 29,
+      "secretWeapon":"Become the hulk",
       "powers": [
         "Infinite capacity",
         "invincible"
@@ -42,7 +43,8 @@
     },
     {
       "name": "Black Widow",
-      "weapon":"pistol",
+      "age" : 29,
+      "secretWeapon":"pistol",
       "powers": [
         "intelligent",
         "master several languages",
@@ -51,7 +53,8 @@
     },
     {
       "name": "Hawkeye",
-      "weapon":"The Arrow",
+      "age" : 29,
+      "secretWeapon":"The Arrow",
       "powers" : [
         "Agility",
         "Rapidly",
