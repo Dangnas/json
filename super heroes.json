@@ -1,0 +1,59 @@
+{
+  "squadName": "Revengers",
+  "homeTown": "America",
+  "formed": 1963,
+  "secretBase": "SHIELD",
+  "active": true,
+  "members": [
+    {
+      "name": "Iron Man",
+      "weapon":"Iron man suit",
+      "powers": [
+        "invulnerability",
+        "Fly combat"
+      ]
+    },
+    {
+      "name": "Captain America",
+      "weapon":"shield",
+      "powers": [
+        "Exceptional physical endurance and speed of movement"
+      ]
+    },
+    {
+      "name": "Thor",
+      "weapon":"Quake",
+      "powers": [
+        "The god of Asgard",
+        "God hammers a bolt of thunder",
+        "Forces invincible"
+      ]
+    },
+    {
+      "name": "The Hulk",
+      "weapon":"Become the hulk",
+      "powers": [
+        "Infinite capacity",
+        "invincible"
+      ]
+    },
+    {
+      "name": "Black Widow",
+      "weapon":"pistol",
+      "powers": [
+        "intelligent",
+        "master several languages",
+        "Good at fighting"
+      ]
+    },
+    {
+      "name": "Hawkeye",
+      "weapon":"The Arrow",
+      "powers" : [
+        "Agility",
+        "Rapidly",
+        "Excellent archery"
+      ]
+    }
+  ]
+}
